@@ -1,5 +1,4 @@
 const makeGrid = require('./templates')
-console.log("hahhha")
 
 let td = document.querySelectorAll('td')
 let colorPicker = document.querySelector("#colorPicker");
